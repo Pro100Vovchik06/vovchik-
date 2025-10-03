@@ -1,3 +1,3 @@
 # vovchik-
 нравится программировать на китайцах
-![Uploading Без имени.jpg…]()
+  <img src="assets/img/my_icon.png" alt="![Uploading Без имени.jpg…]()">
